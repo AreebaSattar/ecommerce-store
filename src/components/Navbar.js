@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar-container">
-      <div className="logo">GlowGuru</div>
+      <div className="logo">🌟 GlowGuru</div>
       <div className="nav-links">
         <Link to="/" className={location.pathname === '/' ? 'active' : ''}>Home</Link>
         <Link to="/products" className={location.pathname === '/products' ? 'active' : ''}>Products</Link>

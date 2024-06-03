@@ -1,70 +1,101 @@
 .navbar-container {
-    background: #8ccde0;
+    background: linear-gradient(135deg, #b7f1f8 0%, #12d8ee 100%);
     padding: 1rem 2rem;
     display: flex;
-    justify-content:flex-start;
-    align-items: center;
+    justify-content: space-between;
+    /* align-items: center; */
     color: black;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
-  .logo {
-    font-size: 1.5rem;
+.logo {
+    font-size: 1.8rem;
     font-weight: bold;
     color: white;
-    padding: 0rem 3rem 0rem 0rem;
-  }
-  
-  .nav-links {
+    padding: 0rem 2rem 0rem 0rem;
+}
+
+.nav-links {
     display: flex;
     gap: 1rem;
     justify-content: flex-start;
   
     a {
-      color: black;
+      color: white;
       text-decoration: none;
       padding: 0.5rem 1rem;
-      border-radius: 7px;
-      transition: background 0.3s;
+      border-radius: 15px;
+      transition: all 0.3s ease-in-out;
     }
   
     a.active {
-      background: #7de6ee;
-      color: white;
+      background: rgba(255, 255, 255, 0.6);
+      color: #333;
     }
   
     a:hover {
-      background: #518d9e;
-      color: white;
+      background: rgba(255, 255, 255, 0.8);
+      color: #333;
     }
-  }
-  
-  .icon-container {
+}
+
+.icon-container {
     display: flex;
     justify-content: flex-end;
-    align-items: flex-end;
+    align-items: center;
     margin-left: auto;
     gap: 1rem;
-    color: black;
-    
   
     svg {
       cursor: pointer;
+      color: white;
+      transition: transform 0.3s ease;
     }
-  }
   
-  .cart-icon-link {
-    color: black;
+    svg:hover {
+      transform: scale(1.1);
+    }
+}
+  
+.cart-icon-link {
     position: relative;
-  }
+}
   
-  .cart-icon-link.active::before {
+.cart-icon-link.active::before {
     content: '';
     position: absolute;
-    top: 0;
-    right: 0;
-    width: 8px;
-    height: 8px;
-    background: #444;
+    top: -5px;
+    right: -5px;
+    width: 10px;
+    height: 10px;
+    background: #ff69b4;
     border-radius: 50%;
+    border: 2px solid white;
+}
+@media (max-width: 768px) {
+    .navbar-container {
+      flex-direction: column;
+      padding: 1rem;
+    }
+  
+    .logo {
+      padding: 0;
+      margin-bottom: 1rem;
+    }
+  
+    .nav-links {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .nav-links a {
+      padding: 0.5rem 0.5rem;
+    }
+  
+    .icon-container {
+      margin-top: 1rem;
+      
+    }
   }
   
