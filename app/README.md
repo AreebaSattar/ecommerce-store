@@ -1,11 +1,11 @@
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections_smallscreen.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts_mediumsize.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts_smallsize.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart_largesize.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart2.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails.jpeg?raw=true)
-![Alt Text](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails_smallsize.jpeg?raw=true)
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections_smallscreen.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts_mediumsize.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts_smallsize.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart_largesize.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart2.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails.jpeg?raw=true" width="300">
+<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails_smallsize.jpeg?raw=true" width="300">
