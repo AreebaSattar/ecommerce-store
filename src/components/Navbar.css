@@ -1,0 +1,70 @@
+.navbar-container {
+    background: #8ccde0;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    color: black;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    padding: 0rem 3rem 0rem 0rem;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+  
+    a {
+      color: black;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border-radius: 7px;
+      transition: background 0.3s;
+    }
+  
+    a.active {
+      background: #7de6ee;
+      color: white;
+    }
+  
+    a:hover {
+      background: #518d9e;
+      color: white;
+    }
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: auto;
+    gap: 1rem;
+    color: black;
+    
+  
+    svg {
+      cursor: pointer;
+    }
+  }
+  
+  .cart-icon-link {
+    color: black;
+    position: relative;
+  }
+  
+  .cart-icon-link.active::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 8px;
+    height: 8px;
+    background: #444;
+    border-radius: 50%;
+  }
+  

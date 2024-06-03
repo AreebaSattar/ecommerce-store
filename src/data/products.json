@@ -1,0 +1,207 @@
+[
+    {
+      "id": 1,
+      "name": "Vitamin C Cream",
+      "price": 100,
+      "image": "cleargenius.jpg",
+      "description": "Revitalizing Anti-Aging Cream enriched with Vitamin C. This powerful cream helps to brighten the skin, reduce the appearance of fine lines and wrinkles, and improve overall skin texture.",
+      "keyIngredients": [
+        {
+          "name": "Vitamin C",
+          "description": "Brightens skin and reduces signs of aging."
+        },
+        {
+          "name": "Hyaluronic Acid",
+          "description": "Provides deep hydration."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Makeup Melt",
+      "price": 200,
+      "image": "makeupmelt.jpg",
+      "description": "Essential makeup-removing necessities to kick off your cleansing routine. Effectively dissolves all traces of makeup, leaving your skin feeling fresh and clean.",
+      "keyIngredients": [
+        {
+          "name": "Chamomile",
+          "description": "Soothes and calms the skin."
+        },
+        {
+          "name": "Glycerin",
+          "description": "Hydrates and retains moisture."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Aloevera Cream",
+      "price": 200,
+      "image": "lemonsage.jpg",
+      "description": "Hydrating aloe vera cream for glowing skin. Infused with natural aloe vera extracts, this cream provides deep hydration, soothes irritation, and promotes a healthy, radiant complexion.",
+      "keyIngredients": [
+        {
+          "name": "Aloe Vera",
+          "description": "Soothes and hydrates the skin."
+        },
+        {
+          "name": "Vitamin E",
+          "description": "Protects against free radicals."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Skincare Cream",
+      "price": 200,
+      "image": "skincarecream.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Shea Butter",
+          "description": "Deeply moisturizes and nourishes."
+        },
+        {
+          "name": "Jojoba Oil",
+          "description": "Improves skin elasticity."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hydrating Face Mist",
+      "price": 200,
+      "image": "facemist.jpg",
+      "description": "This is the description for product 2.",
+      "keyIngredients": [
+        {
+          "name": "Rose Water",
+          "description": "Hydrates and refreshes the skin."
+        },
+        {
+          "name": "Glycerin",
+          "description": "Draws moisture to the skin."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Face Toner",
+      "price": 200,
+      "image": "facetoner.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Witch Hazel",
+          "description": "Tones and tightens the skin."
+        },
+        {
+          "name": "Aloe Vera",
+          "description": "Soothes and hydrates the skin."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cleanser",
+      "price": 200,
+      "image": "cleanser.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Salicylic Acid",
+          "description": "Exfoliates and cleanses the skin."
+        },
+        {
+          "name": "Tea Tree Oil",
+          "description": "Reduces inflammation and acne."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hyaluronic Acid",
+      "price": 200,
+      "image": "hylronicacid.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Hyaluronic Acid",
+          "description": "Deeply hydrates and plumps the skin."
+        },
+        {
+          "name": "Vitamin B5",
+          "description": "Enhances skin repair and hydration."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Coco Oil",
+      "price": 200,
+      "image": "cocooil.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Coconut Oil",
+          "description": "Moisturizes and protects the skin."
+        },
+        {
+          "name": "Vitamin E",
+          "description": "Antioxidant that protects against free radicals."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Night Cream",
+      "price": 200,
+      "image": "nightcream.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Retinol",
+          "description": "Reduces wrinkles and improves skin texture."
+        },
+        {
+          "name": "Peptides",
+          "description": "Boosts collagen production."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Sunscreen SPF 50",
+      "price": 200,
+      "image": "sunscreen.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Zinc Oxide",
+          "description": "Provides broad-spectrum sun protection."
+        },
+        {
+          "name": "Aloe Vera",
+          "description": "Soothes and hydrates the skin."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Cleansing Oil",
+      "price": 200,
+      "image": "cleansingoil.jpg",
+      "description": "Luxurious Hydration Cream designed to provide intense moisture and nourishment to your skin. With a rich, creamy texture, it helps to improve skin elasticity and smoothness, leaving your skin feeling soft and supple.",
+      "keyIngredients": [
+        {
+          "name": "Olive Oil",
+          "description": "Dissolves impurities and makeup."
+        },
+        {
+          "name": "Jojoba Oil",
+          "description": "Nourishes and hydrates the skin."
+        }
+      ]
+    }
+  ]
+  
