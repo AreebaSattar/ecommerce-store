@@ -17,11 +17,11 @@ To set up this project locally, follow the steps below:
 
 ## Features
 
-- Home page with featured products and main categories
-- Product listing with filter capabilities
-- Dynamic product detail pages
-- Cart functionality with add/remove/edit quantities
-- Responsive Navbar with links to different sections
+- **Home page with featured products and main categories**
+- **Product listing with filter capabilities**
+- **Dynamic product detail pages**
+- **Cart functionality with add/remove/edit quantities**
+- **Responsive Navbar with links to different sections**
 
 ## Usage
 
@@ -40,4 +40,3 @@ Contributions to the project are welcome! Please fork the repository and submit 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
