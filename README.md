@@ -29,7 +29,7 @@ Navigate through the application using the navbar at the top. Click on 'Products
 
 ## Screenshots
 Below are screenshots demonstrating the application's functionality:
-- **Home Page**: ![Home Page](/path/to/homepage.png)
+- **Home Page**: ![Home Page]([/path/to/homepage.png](https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true))
 - **Product Listing**: ![Product Listing](/path/to/productlist.png)
 - **Product Detail**: ![Product Detail](/path/to/productdetail.png)
 - **Shopping Cart**: ![Cart](/path/to/cart.png)
