@@ -29,8 +29,7 @@ Navigate through the application using the navbar at the top. Click on 'Products
 
 ## Screenshots
 Below are screenshots demonstrating the application's functionality:
-- **Home Page**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections.jpeg?raw=true" width="1000">
+- **Home Page**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true" width="1000"><img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections.jpeg?raw=true" width="1000">
 - **Product Listing**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts.jpeg?raw=true" width="1000">
 - **Product Detail**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails.jpeg?raw=true" width="1000">
 - **Shopping Cart**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart.jpeg?raw=true" width="1000">
