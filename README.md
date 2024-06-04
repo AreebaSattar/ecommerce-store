@@ -31,18 +31,9 @@ Navigate through the application using the navbar at the top. Click on 'Products
 Below are screenshots demonstrating the application's functionality:
 - **Home Page**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-mainsection.jpeg?raw=true" width="1000">
 <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Home-collections_smallscreen.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts_mediumsize.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts_smallsize.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart_largesize.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart2.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails.jpeg?raw=true" width="1000">
-<img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails_smallsize.jpeg?raw=true" width="1000">
-- **Product Listing**: ![Product Listing](/path/to/productlist.png)
-- **Product Detail**: ![Product Detail](/path/to/productdetail.png)
-- **Shopping Cart**: ![Cart](/path/to/cart.png)
+- **Product Listing**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/Allproducts.jpeg?raw=true" width="1000">
+- **Product Detail**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/productsdetails.jpeg?raw=true" width="1000">
+- **Shopping Cart**: <img src="https://github.com/AreebaSattar/ecommerce-store/blob/master/app/cart.jpeg?raw=true" width="1000">
 
 ## Contributing
 Contributions to the project are welcome! Please fork the repository and submit a pull request with your proposed changes.
